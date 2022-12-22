@@ -163,9 +163,9 @@ a{
 
 footer{
     box-sizing: border-box;
-    height: 150px;
+    height: 100px;
     background-color: #85586F;
     text-align: center;
-    padding: 40px;
+    padding: 50px;
     color: #F8EDE3;
 }
